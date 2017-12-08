@@ -1,4 +1,4 @@
-# Ebay-API-with-ebaysdk
+# Ebay-API-with-python-ebaysdk
 
 ![](https://github.com/iurigo/Ebay-API-with-python-ebaysdk/blob/master/image.png)
 
